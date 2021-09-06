@@ -5,6 +5,7 @@
 
 # 示例
 ## LCCC(数据集名称)
+* 添加人员：陈艺荣
 * 数据集领域：开放域对话生成
 * 发布年份：2020年
 * 下载链接：https://github.com/thu-coai/CDial-GPT
@@ -16,6 +17,7 @@
 
 # 自然语言处理(NLP)领域
 ## LCCC
+* 添加人员：陈艺荣
 * 数据集领域：开放域对话生成
 * 发布年份：2020年
 * 下载链接：https://github.com/thu-coai/CDial-GPT
